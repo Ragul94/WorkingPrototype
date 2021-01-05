@@ -4,3 +4,4 @@ third line has been added
 first line from second branch
 second line from second branch
 third line from second branch
+fouth line from second branch
