@@ -4,3 +4,7 @@ third line has been added
 line added in first feature
 second line added from first feature branch
 third line added from brach 1
+first line from second branch
+second line from second branch
+third line from second branch
+fouth line from second branch
